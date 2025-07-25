@@ -5,7 +5,7 @@
 
 이 프로젝트는 사용자가 입력한 IP 주소 또는 자신의 IP 주소에 대한 상세 정보를 제공합니다. 분석 결과에는 지리적 위치, ISP(인터넷 서비스 제공업체), 소속 기관 등이 포함됩니다. 또한, Google Gemini AI를 활용하여 연결 상태를 진단하고 프라이버시 팁을 제공하며, 현재 위치를 기반으로 한 독창적인 디지털 엽서를 생성하는 고급 기능을 제공합니다.
 
-실행주소1 : https://ip-board.vercel.app/
+실행주소1 : https://ip-board-nu.vercel.app/
 
 실행주소2 : https://dev-canvas-pi.vercel.app/
 
