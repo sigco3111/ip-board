@@ -1,0 +1,6 @@
+{
+  "name": "IP 대시보드",
+  "description": "IP 주소를 입력하여 위치, ISP, 소속 기관 등 상세 정보를 분석하고, 자신의 연결 상태를 점검하며, 위치 기반 디지털 엽서를 생성하는 종합 IP 분석 도구입니다.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
