@@ -5,9 +5,11 @@
 
 이 프로젝트는 사용자가 입력한 IP 주소 또는 자신의 IP 주소에 대한 상세 정보를 제공합니다. 분석 결과에는 지리적 위치, ISP(인터넷 서비스 제공업체), 소속 기관 등이 포함됩니다. 또한, Google Gemini AI를 활용하여 연결 상태를 진단하고 프라이버시 팁을 제공하며, 현재 위치를 기반으로 한 독창적인 디지털 엽서를 생성하는 고급 기능을 제공합니다.
 
-실행주소1 : https://ip-board-nu.vercel.app/
+라이브 데모 : https://sigco3111.github.io/ip-board/
 
-실행주소2 : https://dev-canvas-pi.vercel.app/
+[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://sigco3111.github.io/ip-board/)
+
+> ℹ️ **API 키 참고**: 빌드 시 `GEMINI_API_KEY` 환경변수가 박히지 않으면 UI의 API 키 입력 필드에서 직접 입력해야 합니다 ([방법 2 — UI를 통한 설정](#3-api-키-설정) 참고). 브라우저 localStorage에 저장되며 별도 환경변수 없이도 작동합니다.
 
 ---
 
